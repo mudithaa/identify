@@ -1,0 +1,6 @@
+F:\identify\Identify\FaceDetectConsole\bin\Debug\FaceDetectConsole.exe.config
+F:\identify\Identify\FaceDetectConsole\bin\Debug\FaceDetectConsole.exe
+F:\identify\Identify\FaceDetectConsole\bin\Debug\FaceDetectConsole.pdb
+F:\identify\Identify\FaceDetectConsole\obj\Debug\FaceDetectConsole.csprojResolveAssemblyReference.cache
+F:\identify\Identify\FaceDetectConsole\obj\Debug\FaceDetectConsole.exe
+F:\identify\Identify\FaceDetectConsole\obj\Debug\FaceDetectConsole.pdb
